@@ -22,3 +22,6 @@ git clone %git clone 주소입력%
 
 원격 저장소의 새로운 커밋을 로컬 저장소에 갱신하기(update 받기)
 git pull origin master
+
+커밋 로그 보기
+git log
